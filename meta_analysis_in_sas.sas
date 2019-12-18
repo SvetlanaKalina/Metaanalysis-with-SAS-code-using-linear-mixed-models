@@ -43,4 +43,5 @@ VP: 2.696 [95%CI = [1.602 - 3.790]
 EP: 4.284 [95%CI = [2.417 - 6.151];
 
 The odds for developing ADHD if born very preterm (VP) are 2.7, the odds for developing ADHD if born extremely 
-preterm (EP) are much higher, with an OR of 4.3;
+preterm (EP) are much higher, with an OR of 4.3. The results differ slightly from the estimates of the publication.
+This is most likely due the fact that in this exercise a fixed effect, rather than random effects model was used.;
